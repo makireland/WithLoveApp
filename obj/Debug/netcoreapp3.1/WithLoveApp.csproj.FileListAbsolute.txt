@@ -1,0 +1,11 @@
+C:\www\WithLoveApp\WithLoveApp\bin\Debug\netcoreapp3.1\WithLoveApp.exe
+C:\www\WithLoveApp\WithLoveApp\bin\Debug\netcoreapp3.1\WithLoveApp.deps.json
+C:\www\WithLoveApp\WithLoveApp\bin\Debug\netcoreapp3.1\WithLoveApp.runtimeconfig.json
+C:\www\WithLoveApp\WithLoveApp\bin\Debug\netcoreapp3.1\WithLoveApp.runtimeconfig.dev.json
+C:\www\WithLoveApp\WithLoveApp\bin\Debug\netcoreapp3.1\WithLoveApp.dll
+C:\www\WithLoveApp\WithLoveApp\bin\Debug\netcoreapp3.1\WithLoveApp.pdb
+C:\www\WithLoveApp\WithLoveApp\obj\Debug\netcoreapp3.1\WithLoveApp.csprojAssemblyReference.cache
+C:\www\WithLoveApp\WithLoveApp\obj\Debug\netcoreapp3.1\WithLoveApp.AssemblyInfoInputs.cache
+C:\www\WithLoveApp\WithLoveApp\obj\Debug\netcoreapp3.1\WithLoveApp.AssemblyInfo.cs
+C:\www\WithLoveApp\WithLoveApp\obj\Debug\netcoreapp3.1\WithLoveApp.dll
+C:\www\WithLoveApp\WithLoveApp\obj\Debug\netcoreapp3.1\WithLoveApp.pdb
